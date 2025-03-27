@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm at the beginning of my career as a **Junior Da
 Apart from data analytics, I have a keen interest in **Economics** and love exploring how data can provide meaningful insights into economic trends and policies.
 
 ## 📫 Get in Touch
-- LinkedIn: LinkedIn: www.linkedin.com/in/dominik-bałon-aa5243242 
+- LinkedIn: [LinkedIn Profile](<www.linkedin.com/in/dominik-bałon-aa5243242>) 
 - Email: [Email Address](dominik.balon00@gmail.com)
 
 Looking forward to collaborating and learning with the community! 🚀
