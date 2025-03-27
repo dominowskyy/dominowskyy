@@ -14,7 +14,7 @@ Apart from data analytics, I have a keen interest in **Economics** and love expl
 
 ## 📫 Get in Touch
 - LinkedIn: www.linkedin.com/in/dominik-bałon-aa5243242
-- Email: [Email Address](dominik.balon00@gmail.com)
+- Email: dominik.balon00@gmail.com
 
 Looking forward to collaborating and learning with the community! 🚀
 
