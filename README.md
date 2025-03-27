@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi there! 👋 I'm a Junior Data Analyst
 
-<!--
-**dominowskyy/dominowskyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate Junior Data Analyst with a strong foundation in data analysis, machine learning, and data visualization. I enjoy working with data to uncover insights and drive data-driven decision-making.
 
-Here are some ideas to get you started:
+🚀 Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming Languages: Python, SQL
+
+Data Analysis & Libraries: Pandas, NumPy, Matplotlib, Scikit-Learn
+
+Data Visualization: Matplotlib, Excel
+
+Workflow & Methodologies: Agile (Scrum Framework)
+
+📈 Interests
+
+Apart from data analytics, I have a keen interest in Economics and love exploring how data can provide meaningful insights into economic trends and policies.
+
+📂 Projects
+
+Here are some of my recent projects:
+
+🏆 Customer Segmentation using Machine Learning – Clustering customers based on purchasing behaviors.
+
+📊 Sales Data Analysis with SQL & Python – Extracting insights from sales data to improve business strategies.
+
+📉 Economic Indicators Dashboard – An interactive dashboard showcasing economic trends using Python and visualization tools.
+
+📫 Get in Touch
+
+LinkedIn: Your LinkedIn Profile
+
+Email: Your Email Address
+
+GitHub: Your GitHub Profile
+
+Looking forward to collaborating and learning with the community! 🚀
